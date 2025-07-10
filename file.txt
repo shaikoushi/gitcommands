@@ -1,9 +1,6 @@
 Chandini
 Devops course
 July batch
-dl,';Devops
-sac,sac
-c,as
-clas
-cdksl;dscadd
-knvlds
+new
+dbhklcdsc
+cmds git
